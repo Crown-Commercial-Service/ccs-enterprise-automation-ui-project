@@ -1,0 +1,47 @@
+
+.DS_Store
+target/html-report/index.html
+target/KDD-Framework-sample-0.0.1-SNAPSHOT.jar
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/bullet_point.png
+target/surefire-reports/CCS Suite/CCS Tests.html
+target/surefire-reports/CCS Suite/CCS Tests.xml
+target/surefire-reports/collapseall.gif
+target/surefire-reports/emailable-report.html
+target/surefire-reports/failed.png
+target/surefire-reports/index.html
+target/surefire-reports/jquery-1.7.1.min.js
+target/surefire-reports/junitreports/TEST-com.ccs.runner.TestExecutor.xml
+target/surefire-reports/navigator-bullet.png
+target/surefire-reports/old/CCS Suite/CCS Tests.properties
+target/surefire-reports/old/CCS Suite/classes.html
+target/surefire-reports/old/CCS Suite/groups.html
+target/surefire-reports/old/CCS Suite/index.html
+target/surefire-reports/old/CCS Suite/main.html
+target/surefire-reports/old/CCS Suite/methods-alphabetical.html
+target/surefire-reports/old/CCS Suite/methods-not-run.html
+target/surefire-reports/old/CCS Suite/methods.html
+target/surefire-reports/old/CCS Suite/reporter-output.html
+target/surefire-reports/old/CCS Suite/testng.xml.html
+target/surefire-reports/old/CCS Suite/toc.html
+target/surefire-reports/old/index.html
+target/surefire-reports/passed.png
+target/surefire-reports/skipped.png
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/testng-reports.css
+target/surefire-reports/testng-reports.js
+target/surefire-reports/testng-results.xml
+target/surefire-reports/testng.css
+target/surefire-reports/TestSuite.txt
+target/test-classes/data/TestDataSheet.xlsx
+target/test-classes/data/~$TestDataSheet.xlsx
+target/test-classes/objectRepository/cart.properties
+target/test-classes/objectRepository/home.properties
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+target/CCS-Web-Project-1.0.0.jar
