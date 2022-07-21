@@ -45,3 +45,14 @@ target/test-classes/objectRepository/home.properties
 .idea/runConfigurations.xml
 .idea/vcs.xml
 target/CCS-Web-Project-1.0.0.jar
+target/test-classes/objectRepository/dashboard.properties
+target/test-classes/browserstack.config.json
+target/surefire-reports/old/CCS Suite/CCS Test 3.properties
+target/surefire-reports/old/CCS Suite/CCS Test 2.properties
+target/surefire-reports/old/CCS Suite/CCS Test 1.properties
+target/surefire-reports/CCS Suite/CCS Test 3.xml
+target/surefire-reports/CCS Suite/CCS Test 3.html
+target/surefire-reports/CCS Suite/CCS Test 2.xml
+target/surefire-reports/CCS Suite/CCS Test 2.html
+target/surefire-reports/CCS Suite/CCS Test 1.xml
+target/surefire-reports/CCS Suite/CCS Test 1.html
