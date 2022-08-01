@@ -3,12 +3,16 @@ sudo: false
 jdk: openjdk8
 before_install:
   - mvn clean install -DskipTests=true -DcreateChecksum=true
+env:
+  global:
+    - BS_USER=$BS_USER
+    - BS_KEY=$BS_KEY
 script:
-  - mvn clean verify
+  - mvn clean verify -Dbs.user=$BS_USER -Dbs.key=$BS_KEY
 addons:
   browserstack:
-    username: "mibinboban_SD8s0p"
-    access_key: "MwJNdNmGaAAL152GCvpJ"
+    username: $BS_USER
+    access_key: $BS_KEY
 notifications:
   email:
     recipients:
