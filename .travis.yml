@@ -1,0 +1,15 @@
+language: java
+sudo: false
+jdk: openjdk8
+before_install:
+  - mvn clean install -DskipTests=true -DcreateChecksum=true
+script:
+  - mvn clean verify
+addons:
+  browserstack:
+    username: "mibinboban_SD8s0p"
+    access_key: "MwJNdNmGaAAL152GCvpJ"
+notifications:
+  email:
+    recipients:
+      - mibin.boban@crowncommercial.gov.uk
