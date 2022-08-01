@@ -1394,3 +1394,152 @@ Session ID: 62e7cca14d420d87938a0da8786bd5b832e2378d
 2022-08-01 15:40:41,359 INFO  [Log] 				TC002_LOGIN PASS 
 2022-08-01 15:40:41,360 INFO  [Log] **************************************************************************************** 
 2022-08-01 15:40:41,360 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:36:54,494 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-01 16:36:54,498 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/screenshots/ 
+2022-08-01 16:36:54,500 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/target/html-report/ 
+2022-08-01 16:36:54,503 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/target/html-report/ 
+2022-08-01 16:36:55,167 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/src/test/resources/objectRepository/ 
+2022-08-01 16:36:55,167 INFO  [TestBase] Obj repository:2 
+2022-08-01 16:36:55,182 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-01 16:36:55,182 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-01 16:36:55,182 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-01 16:36:55,182 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:36:55,212 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-01 16:37:03,970 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:03,971 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:03,971 INFO  [Log] 				TC001_SIGNIN START 
+2022-08-01 16:37:03,971 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:03,971 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:04,068 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:05,645 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:05,645 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:05,645 INFO  [Log] 				TC001_SIGNIN START 
+2022-08-01 16:37:05,646 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:05,646 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:05,648 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:05,800 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:05,801 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:05,801 INFO  [Log] 				TC002_LOGIN START 
+2022-08-01 16:37:05,802 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:05,802 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:05,804 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:05,862 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:05,880 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:06,530 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:06,813 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:06,905 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:07,133 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:07,134 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:07,134 INFO  [Log] 				TC002_LOGIN START 
+2022-08-01 16:37:07,134 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:07,134 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:07,136 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:07,289 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:07,346 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:07,407 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:07,627 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:07,646 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:08,141 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:08,522 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:08,915 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:09,148 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-01 16:37:09,203 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:09,696 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-01 16:37:09,780 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:11,153 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:11,305 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:11,519 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:11,520 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:11,520 INFO  [Log] 				TC002_LOGIN PASS 
+2022-08-01 16:37:11,521 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:11,521 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,660 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,660 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,660 INFO  [Log] 				TC001_SIGNIN PASS 
+2022-08-01 16:37:12,661 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,661 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,695 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,695 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,696 INFO  [Log] 				TC001_SIGNIN PASS 
+2022-08-01 16:37:12,696 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:12,696 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:13,206 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:14,506 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:14,507 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:14,507 INFO  [Log] 				TC002_LOGIN PASS 
+2022-08-01 16:37:14,507 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:14,507 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:16,258 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:16,258 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:16,258 INFO  [Log] 				TC001_SIGNIN START 
+2022-08-01 16:37:16,259 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:16,259 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:16,260 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:16,411 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:16,740 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:17,660 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:18,171 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:18,914 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:18,915 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:18,915 INFO  [Log] 				TC002_LOGIN START 
+2022-08-01 16:37:18,915 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:18,915 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:18,916 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:19,028 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:19,407 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:19,820 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:20,188 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-01 16:37:20,832 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:21,457 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:21,457 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:21,457 INFO  [Log] 				TC002_LOGIN START 
+2022-08-01 16:37:21,457 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:21,457 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:21,458 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:21,693 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:21,801 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:21,914 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-01 16:37:21,914 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:21,914 INFO  [Log] 				TC001_SIGNIN START 
+2022-08-01 16:37:21,915 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:21,915 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:21,915 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:21,994 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:22,111 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-01 16:37:22,247 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:22,248 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:22,248 INFO  [Log] 				TC002_LOGIN PASS 
+2022-08-01 16:37:22,248 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:22,248 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:22,301 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:22,577 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-01 16:37:22,742 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-01 16:37:23,197 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-01 16:37:23,349 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:23,350 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:23,351 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:23,351 INFO  [Log] 				TC001_SIGNIN PASS 
+2022-08-01 16:37:23,351 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:23,351 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:23,561 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-01 16:37:24,702 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:24,702 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:24,702 INFO  [Log] 				TC002_LOGIN PASS 
+2022-08-01 16:37:24,702 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:24,702 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:27,349 INFO  [TestBase] Closing all the browser. 
+2022-08-01 16:37:28,662 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:28,662 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:28,662 INFO  [Log] 				TC001_SIGNIN PASS 
+2022-08-01 16:37:28,663 INFO  [Log] **************************************************************************************** 
+2022-08-01 16:37:28,663 INFO  [Log] **************************************************************************************** 
