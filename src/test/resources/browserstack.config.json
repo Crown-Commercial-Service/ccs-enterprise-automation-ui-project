@@ -4,7 +4,7 @@
   "key": "MwJNdNmGaAAL152GCvpJ",
   "capabilities": {
     "project": "PPG",
-    "build": "test-build-1",
+    "build": "ccs-ppg-test-1-",
     "name": "sample tests",
     "browserstack.debug": true
   },
@@ -27,7 +27,7 @@
       "os": "OS X",
       "osVersion": "Big Sur"
     },
-    "env3": {
+    "env4": {
       "browser": "Edge",
       "browserVersion": "latest",
       "os": "Windows",
