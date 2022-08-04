@@ -2,7 +2,7 @@
   "server": "hub-cloud.browserstack.com",
   "capabilities": {
     "project": "PPG",
-    "build": "ccs-ppg-test-build-",
+    "build": "ccs-ppg-unitTest-build-",
     "name": "sample tests",
     "browserstack.debug": true
   },
@@ -30,6 +30,12 @@
       "browserVersion": "latest",
       "os": "Windows",
       "osVersion": "10"
+    },
+    "env5": {
+      "browser": "chrome",
+      "browserVersion": "latest",
+      "os": "OS X",
+      "osVersion": "Big Sur"
     }
   }
 }
