@@ -8,32 +8,4 @@
             <class name="com.ccs.runner.TestExecutor"/>
         </classes>
     </test> <!-- Test -->
-    <test name="CCS Test 2">
-        <parameter name="config" value="browserstack.config.json"/>
-        <parameter name="environment" value="env2"/>
-        <classes>
-            <class name="com.ccs.runner.TestExecutor"/>
-        </classes>
-    </test> <!-- Test -->
-    <test name="CCS Test 3">
-        <parameter name="config" value="browserstack.config.json"/>
-        <parameter name="environment" value="env3"/>
-        <classes>
-            <class name="com.ccs.runner.TestExecutor"/>
-        </classes>
-    </test> <!-- Test -->
-    <test name="CCS Test 4">
-        <parameter name="config" value="browserstack.config.json"/>
-        <parameter name="environment" value="env4"/>
-        <classes>
-            <class name="com.ccs.runner.TestExecutor"/>
-        </classes>
-    </test> <!-- Test -->
-    <test name="CCS Test 5">
-        <parameter name="config" value="browserstack.config.json"/>
-        <parameter name="environment" value="env5"/>
-        <classes>
-            <class name="com.ccs.runner.TestExecutor"/>
-        </classes>
-    </test> <!-- Test -->
 </suite> <!-- Suite -->

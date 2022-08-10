@@ -12,30 +12,6 @@
       "browserVersion": "latest",
       "os": "Windows",
       "osVersion": "10"
-    },
-    "env2": {
-      "browser": "firefox",
-      "browserVersion": "latest",
-      "os": "Windows",
-      "osVersion": "10"
-    },
-    "env3": {
-      "browser": "safari",
-      "browserVersion": "latest",
-      "os": "OS X",
-      "osVersion": "Big Sur"
-    },
-    "env4": {
-      "browser": "Edge",
-      "browserVersion": "latest",
-      "os": "Windows",
-      "osVersion": "10"
-    },
-    "env5": {
-      "browser": "chrome",
-      "browserVersion": "latest",
-      "os": "OS X",
-      "osVersion": "Big Sur"
     }
   }
 }
