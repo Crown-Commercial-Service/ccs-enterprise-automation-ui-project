@@ -2,13 +2,16 @@ language: java
 sudo: false
 jdk: openjdk8
 before_install:
+  - npm install --save-dev @percy/cli
   - mvn clean install -DskipTests=true -DcreateChecksum=true
 env:
   global:
     - BS_USER=$BS_USER
     - BS_KEY=$BS_KEY
+    - P_TOKEN=$PERCY_TOKEN
 script:
-  - mvn clean verify -Dbs.user=$BS_USER -Dbs.key=$BS_KEY
+  - export PERCY_TOKEN=P_TOKEN
+  - npx percy exec -- mvn clean verify -Dbs.user=$BS_USER -Dbs.key=$BS_KEY
 addons:
   browserstack:
     username: $BS_USER
