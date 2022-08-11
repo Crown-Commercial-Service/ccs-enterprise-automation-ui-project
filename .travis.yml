@@ -2,8 +2,6 @@ language: java
 sudo: false
 jdk: openjdk8
 before_install:
-  - npm update -q
-  - npm install --save-dev @percy/cli
   - mvn clean install -DskipTests=true -DcreateChecksum=true
 env:
   global:
