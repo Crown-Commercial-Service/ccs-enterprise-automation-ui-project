@@ -1853,3 +1853,4 @@ node_modules/.bin/image-size
 node_modules/.bin/extract-zip
 logfile.log
 target/test-classes/objectRepository/signin.properties
+logfile.log
